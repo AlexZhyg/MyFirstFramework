@@ -4,6 +4,5 @@ import XCTest
 final class MyFirstFrameworkTests: XCTestCase {
     func testExample() throws {
         
-        
     }
 }
